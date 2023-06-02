@@ -26,12 +26,9 @@ I am a Full Stack Developer <img src="https://raw.githubusercontent.com/skstef/s
 
 ### 🤓 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Zionodes** projects
-- 🌱 &nbsp; I’m currently learning Solidity;
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/skstef?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/skstef/)
-- 🚨 &nbsp; My favorite movie is **La casa de papel**
+- 💬 &nbsp; Ask me about anything web related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/skstef/)\
 
 <br>
 <br>
