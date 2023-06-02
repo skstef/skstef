@@ -28,7 +28,7 @@ I am a Full Stack Developer <img src="https://raw.githubusercontent.com/skstef/s
 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/skstef?tab=repositories)
 - 💬 &nbsp; Ask me about anything web related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/skstef/)\
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/skstef/)
 
 <br>
 <br>
