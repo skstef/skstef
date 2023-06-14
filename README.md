@@ -6,7 +6,7 @@
 
 <h3>
 <a href='https://www.linkedin.com/in/skstef/'><img align='left' alt="_skstef linkedin" src="https://raw.githubusercontent.com/skstef/skstef/main/assets/linkedin.svg" height="30" width="40"/></a>
-<a href='https://www.instagram.com/_skstef/'><img align='left' alt="_skstef instagram" src="https://raw.githubusercontent.com/skstef/skstef/main/assets/instagram.svg"  height="30" width="40"/></a>
+<!-- <a href='https://www.instagram.com/_skstef/'><img align='left' alt="_skstef instagram" src="https://raw.githubusercontent.com/skstef/skstef/main/assets/instagram.svg"  height="30" width="40"/></a> -->
 </h3>
 <br/>
 <br/>
