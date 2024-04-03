@@ -12,17 +12,17 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/skstef/skstef/main/assets/coder.gif" width="600" height="300"/>
+  <img alt="Scurtu Stefanii" src="https://raw.githubusercontent.com/skstef/skstef/main/assets/coder.gif" width="600" height="300"/>
 
 ---
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://raw.githubusercontent.com/skstef/skstef/main/assets/cat-coder.gif" width="30"> from Republic of Moldova.
+I am a Full Stack Developer <img alt="Moldova developer" src="https://raw.githubusercontent.com/skstef/skstef/main/assets/cat-coder.gif" width="30"> from Republic of Moldova 🇲🇩.
 
 </div>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img alt="_skstef" align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ### 🤓 More About Me:
 
