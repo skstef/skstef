@@ -14,8 +14,8 @@
 <div align="center">
   <img alt="Scurtu Stefanii" src="https://raw.githubusercontent.com/skstef/skstef/main/assets/coder.gif" width="600" height="300"/>
 
-  <img alt="Stef Scurtu" src="https://avatars.githubusercontent.com/u/52489178?v=4" style="display: none;"/>
-  <img alt="Stefanii Scurtu" src="https://avatars.githubusercontent.com/u/52489178?v=4" style="display: none;"/>
+  <img alt="Stef Scurtu" src="https://avatars.githubusercontent.com/u/52489178?v=4" style="display: none;" width="0" height="0"/>
+  <img alt="Stefanii Scurtu" src="https://avatars.githubusercontent.com/u/52489178?v=4" style="display: none;" width="0" height="0"/>
 
 ---
 
