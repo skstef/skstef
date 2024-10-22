@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img alt="Moldova developer" src="https://raw.githubusercontent.com/skstef/skstef/main/assets/cat-coder.gif" width="30"> from Republic of Moldova 🇲🇩🌙.
+I am a Full Stack Developer <img alt="Moldova developer" src="https://raw.githubusercontent.com/skstef/skstef/main/assets/cat-coder.gif" width="30"> from Republic of Moldova 🇲🇩⚔️🌙 .
 
 </div>
 
